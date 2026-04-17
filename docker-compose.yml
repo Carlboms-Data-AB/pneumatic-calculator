@@ -1,4 +1,6 @@
 services:
   pneumatic-calculator:
     image: ghcr.io/carlboms-data-ab/pneumatic-calculator:latest
+    ports:
+      - "10080:80"
     restart: unless-stopped
