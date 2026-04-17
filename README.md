@@ -1,6 +1,6 @@
 # Pneumatic Cylinder Calculator
 
-Browser-based calculator for double-acting pneumatic cylinders. Live at **<https://cylindercalc.carlbomsdata.se>**.
+Browser-based calculator for double-acting pneumatic cylinders. Live at **<a href="https://cylindercalc.carlbomsdata.se" target="_blank" rel="noopener">cylindercalc.carlbomsdata.se</a>**.
 
 ## What it does
 
