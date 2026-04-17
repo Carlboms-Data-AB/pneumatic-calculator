@@ -1,0 +1,4 @@
+services:
+  pneumatic-calculator:
+    image: ghcr.io/carlboms-data-ab/pneumatic-calculator:latest
+    restart: unless-stopped
